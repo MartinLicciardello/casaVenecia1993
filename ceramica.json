@@ -1,0 +1,320 @@
+[{
+      "nombre" : "Lenga Madera",
+      "marca" : "Lourdes",
+      "precio" : 2000,
+      "metrosCaja": 1.65,
+      "imagen" : "ceramicaImagen/lengaMadera.PNG",
+      "medida" : "36x36cm",
+      "id" : 1
+    },{
+      "nombre" : "Lenga Madera Blanco",
+      "marca" :"Lourdes",
+      "precio" : 2000,
+      "metrosCaja": 1.65,
+      "imagen" : "ceramicaImagen/lengaMaderaBlanco.PNG",
+      "medida" : "36x36cm",
+      "id" : 2
+    
+    },{
+      "nombre" : "Lenga Madera Gris",
+      "marca" : "Lourdes",
+      "precio" : 2200,
+      "metrosCaja": 1.65,
+      "imagen" : "ceramicaImagen/lengaMaderaGris.PNG",
+      "medida" : "36x36cm",
+      "id" : 3
+      },{
+        "nombre" : "Cordillera",
+        "marca" :"Cortines",
+        "precio" : 2000,
+        "metrosCaja": 1.75,
+        "imagen" : "ceramicaImagen/cordillera.PNG",
+        "medida" : "36x36cm",
+        "id" : 4
+      },{
+        "nombre" : "Morisco",
+        "marca" : "Allpa",
+        "precio" : 2200,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/morisco.PNG",
+        "medida" : "36x36cm",
+        "id" : 5
+    
+      },{
+        "nombre" : "Trevi",
+        "marca" : "Allpa",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/trevi.PNG",
+        "medida" : "36x36cm",
+        "id" : 6
+    },{
+        "nombre" : "Marino Negro Plus",
+        "marca" : "Lourdes",
+        "precio" : 2400,
+        "metrosCaja": 2.20,
+        "imagen" : "ceramicaImagen/marinoNegroPlus.PNG",
+        "medida" : "36x36cm",
+        "id" : 7
+    },{
+        "nombre" : "Venecia Beige",
+        "marca" : "Cañuelas",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/veneciaBeige.PNG",
+        "medida" : "36x36cm",
+        "id" : 8
+    },{
+        "nombre" : "Valencia Beige",
+        "marca" : "Cañuelas",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/valenciaBeige.PNG",
+        "medida" : "36x36cm",
+        "id" : 9
+    },{
+        "nombre" : "Alamo",
+        "marca" : "Cortines",
+        "precio" : 2400,
+        "metrosCaja": 1.75,
+        "imagen" : "ceramicaImagen/alamo.PNG",
+        "medida" : "36x36cm",
+        "id" : 10
+    },{
+        "nombre" : "Arrayan",
+        "marca" : "Cortines",
+        "precio" : 2400,
+        "metrosCaja": 1.35,
+        "imagen" : "ceramicaImagen/arrayan.PNG",
+        "medida" : "36x36cm",
+        "id" : 11
+    },{
+        "nombre" : "Azabache",
+        "marca" : "Allpa",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/azabache.PNG",
+        "medida" : "36x36cm",
+        "id" : 12
+    },{
+        "nombre" : "Barcelo Azul",
+        "marca" : "Allpa",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/barceloAzul.PNG",
+        "medida" : "36x36cm",
+        "id" : 13
+    },{
+        "nombre" : "Barcelo Rojo",
+        "marca" : "Allpa",
+        "precio" : 2400,
+        "metrosCaja": 2.68,
+        "imagen" : "ceramicaImagen/barceloRojo.PNG",
+        "medida" : "36x36cm",
+        "id" : 14
+    },{
+        "nombre" : "Basalto Acero",
+        "marca" : "Cortines",
+        "precio" : 2400,
+        "metrosCaja": 1.35,
+        "imagen" : "ceramicaImagen/basaltoAcero.PNG",
+        "medida" : "36x36cm",
+        "id" : 15
+    },{
+          "nombre" : "Benfica Marfil",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/benficaMarfil.PNG",
+          "medida" : "36x36cm",
+          "id" : 16
+    },{
+          "nombre" : "Calabria",
+          "marca" : "Cañuelas",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/calabria.PNG",
+          "medida" : "36x36cm",
+          "id" : 17
+    },{
+          "nombre" : "Castaño",
+          "marca" : "Cortines",
+          "precio" : 2400,
+          "metrosCaja": 1.75,
+          "imagen" : "ceramicaImagen/castaño.PNG",
+          "medida" : "36x36cm",
+          "id" : 18
+    },{
+          "nombre" : "Diamante",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/diamante.PNG",
+          "medida" : "36x36cm",
+          "id" : 19
+    },{
+          "nombre" : "Esmeralda",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/esmeralda.PNG",
+          "medida" : "36x36cm",
+          "id" : 20
+    },{
+          "nombre" : "Fiorentino",
+          "marca" : "Cortines",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/fiorentino.PNG",
+          "medida" : "36x36cm",
+          "id" : 21
+    },{
+          "nombre" : "Garden",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/garden.PNG",
+          "medida" : "36x36cm",
+          "id" : 22
+    },{
+          "nombre" : "Madera Cedro",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/maderaCedro.PNG",
+          "medida" : "36x36cm",
+          "id" : 23
+    },{
+          "nombre" : "Madera Entramado",
+          "marca" : "Lourdes",
+          "precio" : 2400,
+          "metrosCaja": 2.20,
+          "imagen" : "ceramicaImagen/maderaEntramado.PNG",
+          "medida" : "36x36cm",
+          "id" : 24
+    },{
+          "nombre" : "Madera Entramado Gris",
+          "marca" : "Lorudes",
+          "precio" : 2400,
+          "metrosCaja": 2.20,
+          "imagen" : "ceramicaImagen/maderaEntramadoGris.PNG",
+          "medida" : "36x36cm",
+          "id" : 25
+    },{
+          "nombre" : "Madera Parquet",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/maderaParquet.PNG",
+          "medida" : "36x36cm",
+          "id" : 26
+    },{
+          "nombre" : "Morisco",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/morisco.PNG",
+          "medida" : "36x36cm",
+          "id" : 27
+    },{
+          "nombre" : "Niza",
+          "marca" : "Cañuelas",
+          "precio" : 2400,
+          "metrosCaja": 2.30,
+          "imagen" : "ceramicaImagen/niza.PNG",
+          "medida" : "36x36cm",
+          "id" : 28
+    },{
+          "nombre" : "Porfido Marron",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.20,
+          "imagen" : "ceramicaImagen/porfidoMarron.PNG",
+          "medida" : "36x36cm",
+          "id" : 29
+    
+    },{
+          "nombre" : "Rojizo Brillante",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/rojizoBrillante.PNG",
+          "medida" : "36x36cm",
+          "id" : 30
+    },{
+          "nombre" : "Toscana",
+          "marca" : "Allpa",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/toscana.PNG",
+          "medida" : "36x36cm",
+          "id" : 31
+    },{
+          "nombre" : "Travertino Marfil",
+          "marca" : "Cortines",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/travertinoMarfil.PNG",
+          "medida" : "36x36cm",
+          "id" : 32
+    },{
+          "nombre" : "Trentino Zafiro",
+          "marca" : "Cortines",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/trentinoZafiro.PNG",
+          "medida" : "36x36cm",
+          "id" : 33
+    
+    },{
+          "nombre" : "Leon Beige",
+          "marca" : "Canuelas",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/leonBeigee.PNG",
+          "medida" : "36x36cm",
+          "id" : 34
+    },{
+          "nombre" : "Leon Gris",
+          "marca" : "Canuelas",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/leonGris.PNG",
+          "medida" : "36x36cm",
+          "id" : 35
+    },{
+          "nombre" : "Trevi",
+          "marca" : "Cortines",
+          "precio" : 2400,
+          "metrosCaja": 2.68,
+          "imagen" : "ceramicaImagen/trevi.PNG",
+          "medida" : "36x36cm",
+          "id" : 36
+      },{
+            "nombre" : "Cervantes Terra",
+            "marca" : "Allpa",
+            "precio" : 2400,
+            "metrosCaja": 2.58,
+            "imagen" : "ceramicaImagen/cervantesTerra.PNG",
+            "medida" : "46x46cm",
+            "id" : 37
+      },{
+            "nombre" : "Calacata",
+            "marca" : "Allpa",
+            "precio" : 2400,
+            "metrosCaja": 2.58,
+            "imagen" : "Proximamente",
+            "medida" : "46x46cm",
+            "id" : 38
+      },{
+            "nombre" : "Napoles",
+            "marca" : "Canuelas",
+            "precio" : 2400,
+            "metrosCaja": 2.58,
+            "imagen" : "ceramicaImagen/Napoles.png",
+            "medida" : "43x43cm",
+            "id" : 39
+
+    
+    }] 
+    

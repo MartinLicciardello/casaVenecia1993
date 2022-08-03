@@ -1,0 +1,111 @@
+let DATOSCERAMICAS= [{
+    "nombre" : "Calipso Marfil",
+    "marca" : "Lourdes",
+    "precio" : 2000,
+    "metrosCaja": 1.65,
+    "imagen" : "ceramicaPared/calipsoMarfil.PNG",
+    "medida" : "30x47cm",
+    "id" : 1
+},{
+    "nombre" : "Calipso Marron",
+    "marca" :"Lourdes",
+    "precio" : 2000,
+    "metrosCaja": 1.65,
+    "imagen" : "ceramicaPared/calipsoMarron.PNG",
+    "medida" : "30x47cm",
+    "id" : 2
+  
+},{
+
+    "nombre" : "Coral",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 1.35,
+    "imagen" : "ceramicaPared/coral.PNG",
+    "medida" : "30x45cm",
+    "id" : 3
+},{
+
+    "nombre" : "Crayon",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 1.35,
+    "imagen" : "ceramicaPared/crayon.PNG",
+    "medida" : "30x45cm",
+    "id" : 4
+},{
+
+    "nombre" : "Mercurio",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 1.35,
+    "imagen" : "ceramicaPared/mercurio.PNG",
+    "medida" : "30x45cm",
+    "id" : 5
+},{
+
+    "nombre" : "Neon",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/Neon.PNG",
+    "medida" : "30x45cm",
+    "id" : 6
+},{
+
+    "nombre" : "Serrano Beige",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/serranoBeige.PNG",
+    "medida" : "25x30cm",
+    "id" : 7
+},{
+
+    "nombre" : "Serrano Gris",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/serranoGris.PNG",
+    "medida" : "30x45cm",
+    "id" : 8
+},{
+
+    "nombre" : "Stone",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/stone.PNG",
+    "medida" : "30x45cm",
+    "id" : 9
+},{
+
+    "nombre" : "Venecita Azul",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/venecitaAzul.PNG",
+    "medida" : "30x45cm",
+    "id" : 10
+},{
+
+    "nombre" : "Veneto Gris",
+    "marca" : "Cortines",
+    "precio" : 2400,
+    "metrosCaja": 2.10,
+    "imagen" : "ceramicaPared/venetoGris.PNG",
+    "medida" : "30x45cm",
+    "id" : 11
+},{
+
+    "nombre" : "Satinado Blanco",
+    "marca" : "Canuelas",
+    "precio" : 2400,
+    "metrosCaja": 2.30,
+    "imagen" : "ceramicaPared/satinadoBlanco.png",
+    "medida" : "25x35",
+    "id" : 12
+  
+}]
+  
+    let SELECCIONADOS = [];
